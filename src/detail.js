@@ -3,6 +3,6 @@ import React from 'react'
 
 export default function detail() {
   return (
-    <div>kjbscoisbcksb</div>
+    <div>kjbscoisbcksb hihihi</div>
   )
 }
