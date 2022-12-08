@@ -1,10 +1,6 @@
 const mockAPI = "https://62904135665ea71fe12f6eef.mockapi.io/products";
+import React from "react";
 
-fetch(mockAPI)
-  .then((res) => res.json())
-  .then((data) => console.log(data));
-
-
-function renderProduct(){
-  
+export default function detail() {
+  return <div>kjbscoisbcksb hihihi nhanh 1</div>;
 }
